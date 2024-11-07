@@ -702,6 +702,32 @@ h1, h2, h3, h4, h5,
     font-weight: 200;
     font-style: italic; }
 
+.box-with-humber {
+    background-color: #fff;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%; /* Ensures each card takes the full height */
+}
+
+.box-with-humber img {
+    max-width: 64px;
+    margin-bottom: 1rem;
+}
+
+.box-with-humber h2 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.box-with-humber p {
+    flex-grow: 1;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+
 .team-member {
   position: relative;
   float: left;
