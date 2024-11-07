@@ -709,6 +709,7 @@ h1, h2, h3, h4, h5,
     flex-direction: column;
     justify-content: space-between;
     height: 100%; /* Ensures each card takes the full height */
+	text-align: center;
 }
 
 .box-with-humber img {
