@@ -14,7 +14,8 @@ body {
   color: #818181;
   font-weight: 300;
   font-size: 15px;
-  background: #EEEEEE; }
+  background: #EEEEEE; 
+overflow-x: hidden; }
   body:before {
     -webkit-transition: .3s all ease-in-out;
     -o-transition: .3s all ease-in-out;
