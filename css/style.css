@@ -1395,6 +1395,7 @@ h1, h2, h3, h4, h5,
     height: 60px;
     background-color: white;
     border-radius: 50%;  /* Optional shadow for effect */
+	padding: 15px;
 }
 
 .feature-1, .free-quote, .feature-3 {
