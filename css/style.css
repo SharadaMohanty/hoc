@@ -1386,6 +1386,18 @@ h1, h2, h3, h4, h5,
 .ul-social-circle li {
     margin: 0 0.5rem;
 }
+
+.icon-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;           /* Adjust size as needed */
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  /* Optional shadow for effect */
+}
+
 .feature-1, .free-quote, .feature-3 {
   background: #21325E;
   padding: 30px 50px;
